@@ -1,1 +1,2 @@
 *.* linguist-detectable=true
+*.jsonc linguist-language=JSON with comments
