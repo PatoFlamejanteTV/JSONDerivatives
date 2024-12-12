@@ -1,0 +1,7 @@
+{
+  "name": "JSON with comments",
+  "info": "The name explains everything.",
+  // "a" means "Hello "
+  // "b" means "World!"
+  "command": "join(a, b)" // "Hello, World!"
+}
