@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Review",
+   "author": "PatoFlamejanteTV",
+   "name": "Unnecessary JSON-like language",
+   "reviewBody": "Kinda goofy all the time, i think even plain JSON is better.",
+   "reviewRating": {
+   "@type": "Rating",
+   "ratingValue": "3.2"
+}
