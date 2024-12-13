@@ -1,2 +1,1 @@
 *.* linguist-detectable=true
-*.jsonc linguist-language=JSON_with_comments
